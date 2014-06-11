@@ -35,7 +35,7 @@ The following instructions show how to install these game objects.
     chocolatey install pscx
     ```
 
-1. For PSCX to be detected, you must log in and log back out. Do so now.
+1. For PSCX to be detected, you must log out and log back in. Do so now.
 
 1. Install RCT2 with GoG installer. Click *Options* when the installer opens. Disable Foxit from being installed. Also change the installation directory to `C:\Users\Me\Applications\RCT2`, replacing `Me` with the name of your user. Changing the installation directory is not mandatory.
 
