@@ -70,3 +70,16 @@ The following instructions show how to install these game objects.
 [choco]: http://chocolatey.org/
 [gh-win]: https://windows.github.com/
 [gh-setup]: https://help.github.com/articles/set-up-git
+
+Issues
+------
+
+This setup has seen a couple issues, but nothing serious that can't be worked around.
+
+* **RCT2.exe has stopped working**
+
+    Sometimes, using Git or links with RCT2 (we think) causes it to crash when switching applications or upon exit. To mitigate the risk of losing your changes, **always save your game before you exit or switch out of RCT2.** When following this advice, we have not really had problems.
+
+* **Saved games with custom objects fail to load.**
+
+    This can happen with some UCES-created scenarios. To get these to work, just start a new game of the same park to load the objects. Exit that immediately, then load the saved game.
