@@ -50,7 +50,7 @@ The following instructions show how to install these game objects.
 1. Install more scenarios and tracks by running the linking script.
 
     ```powershell
-    .\LinkObjects.ps1
+    .\LinkObjects.ps1 ~\Applications\RCT2
     ```
 
 1. Clone the saved games repo using Git.
@@ -62,7 +62,7 @@ The following instructions show how to install these game objects.
 1. Run the linking script to install our saved games.
 
     ```powershell
-    .\LinkDirectory.ps1
+    .\LinkDirectory.ps1 ~\Applications\RCT2
     ```
 
 1. Start RCT2 and enjoy!
